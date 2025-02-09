@@ -1,0 +1,2 @@
+# qmbot
+bot trade
